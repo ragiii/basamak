@@ -14,7 +14,7 @@ public class main {
             basNumber++;
         }
         System.out.print("Basamak Sayılarının Toplamı :" + total);
-        System.out.print("Basamak Sayılarının Toplamı :" + basNumber);
+        System.out.print("Basamak Sayısı :" + basNumber);
     }
 
     
